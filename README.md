@@ -1,5 +1,7 @@
 # Product Agent - AI с MCP интеграцией
 
+### В ветке master реализация с JSON файл, в ветке feature/sqlite-persistence реализация с SQLite. Вся работа сервиса индентична
+
 ## Быстрый старт
 
 ### Docker
