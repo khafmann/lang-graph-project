@@ -2,7 +2,7 @@
 
 ## Быстрый старт
 
-### Docker (рекомендуется)
+### Docker
 ```bash
 docker-compose up --build
 ```
